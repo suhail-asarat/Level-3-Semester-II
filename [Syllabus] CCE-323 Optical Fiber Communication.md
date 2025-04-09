@@ -23,7 +23,7 @@ from Slides
 ### 3.2 Attenuation
 Attenuation Mechanism are influenced by -
 - The material composition
-- 
+- ...
 
 Single Mode
 
