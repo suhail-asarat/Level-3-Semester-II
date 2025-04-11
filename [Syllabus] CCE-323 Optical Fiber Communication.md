@@ -82,6 +82,9 @@ Figure 5.5, 5.6, 5.7
 Figure 5.7, 5.8, 5.9, 5.10, 5.11  
 #### 5.3.3 Multiple splices
 Figure 5.14, 5.15  
+
+$\star \star \star$ 
+Comparison between different splices
 ### 5.4 Fiber connectors
 #### 5.4.1 Cylindrical ferrule connectors
 Figure 5.16  
