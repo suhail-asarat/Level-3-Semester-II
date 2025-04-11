@@ -19,7 +19,7 @@ $\star \star \star$ Example 2.2 (Page-20 of Book, Page-71 of PDF) **3-5 Marks**
 Self Study: Example 2.3  
 
 ## Chapter 3 : Transmission Characteristics of Optical Fibers
-from Slides  
+from [Slide](https://t.me/c/1734256119/3086/3469)  
 ### 3.2 Attenuation
 Attenuation Mechanism are influenced by -
 - The material composition
