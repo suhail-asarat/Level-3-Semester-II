@@ -139,5 +139,5 @@ Figure	8.7, 8.8, 8.9 (same as Figure 8.8)
 
 #### 8.10.1 Quantum-dot photodetectors
 
-$\star \star \star$  
+$\star \star \star$ 
 **Postscript:** Examples and related maths are for Exam. 
