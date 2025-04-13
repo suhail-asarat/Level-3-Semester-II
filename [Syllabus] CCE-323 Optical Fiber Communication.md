@@ -41,7 +41,7 @@ Example 3.4
 Equaion 2.9, 3.8, 2.98, 3.9  
 
 Example 3.3  
-Stumuulated Brillouin Scattering, Stimulated Raman Scattering  
+Stimulated Brillouin Scattering, Stimulated Raman Scattering  
 Equation 3.6, 3.7 
 
 
