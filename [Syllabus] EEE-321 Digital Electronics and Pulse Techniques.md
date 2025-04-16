@@ -136,7 +136,7 @@ Basic Idea of Sampling
 #### 10.5.1 Quantization and Encoding
 Basic Idea of Quantization and Encoding
 
-#### 10.5.2 Parallel=Comparator (or Flash) A/D Converter
+#### 10.5.2 Parallel-Comparator (or Flash) A/D Converter
 Fig. 10.19
 
 Use of DAC in Data Communication  
