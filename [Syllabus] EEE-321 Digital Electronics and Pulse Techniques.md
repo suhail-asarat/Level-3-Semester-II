@@ -3,6 +3,7 @@
 - [R. P. Jain - Modern Digital Electronics [4th Edition] (2012)](https://t.me/c/1734256119/3086/3132)  
 - [Robert L. Boylestad, Louis Nashelsky - Electronic Devices and Circuit Theory [11th Edition]](https://t.me/c/1734256119/3086/3133)  
 - [Robert F. Coughlin, Frederick F. Driscoll - Operational Amplifiers and Linear Integrated Circuits](https://t.me/c/1734256119/3086/3177)  
+
 ---
 
 > R. P. Jain - Modern Digital Electronics [4th Edition] (2012)  
@@ -12,6 +13,8 @@
 3.3 p-n JUNCTION DIODE  
 3.5 BIPOLAR JUNCTION TRANSISTOR  
 3.7 FIELD-EFFECT TRANSISTOR  
+
+---
 
 > R. P. Jain - Modern Digital Electronics [4th Edition] (2012)  
 
@@ -39,6 +42,8 @@ Fig. 4.16 - A 3-Input TTL NAND Gate Driving N Similar Gates
 Fig. 4.18 - A TTL Gate with Totem-Pole Output Driver  
 Corresponding Math  
 
+---
+
 > Robert L. Boylestad, Louis Nashelsky - Electronic Devices and Circuit Theory [11th Edition]  
 
 ## [Chapter 02 : Diode Application](https://t.me/c/1734256119/3086/3333)  
@@ -59,6 +64,8 @@ Definition
 Example 2.22, 2.23  
 
 **YouTube Playlist:** [Clipper and Clamper](https://www.youtube.com/playlist?list=PLstSxcpBGrtVbt4A3Ns1Rse0IEhaPpzdU)  
+
+---
 
 > Robert F. Coughlin, Frederick F. Driscoll - Operational Amplifiers and Linear Integrated Circuits  
 
@@ -126,6 +133,7 @@ Figure 11-6
 #### 11-5.1 20-dB/Decade Filter  
 Figure 11-7  
 
+---
 
 > R. P. Jain - Modern Digital Electronics [4th Edition] (2012)  
 
