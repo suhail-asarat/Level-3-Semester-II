@@ -81,7 +81,7 @@ Extension of Pure Pursuit Problem
 
 -- Chapter Closed --  
 
-## Chapter 4 : Random Numbers  
+## [Chapter 4 : Random Numbers](https://t.me/c/1734256119/3086/3485)  
 Definition: Random Numbers, Properties of Random Numbers  
 
 ### 4.2 Random Number Tables  
