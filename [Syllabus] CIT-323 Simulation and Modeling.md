@@ -123,7 +123,7 @@ Self Study: 4.13.1, 4.13.2
 ### 4.14 Poker Test  
 combination, distribution  
 
-Exercise: 6, 7, 8, 9, 10, 11  
+Examples: 4.6, 4.7, 4.8, 4.9, 4.10, 4.11  
 
 -- Chapter Closed --  
 
