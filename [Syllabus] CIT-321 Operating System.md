@@ -151,7 +151,7 @@ Figure- 7.6, 7.7
 
 #### 8.3.1 Necessary Conditions
 
-#### 8.3.2 Resource Allocation Graph
+#### 8.3.2 Resource Allocation Graph $\star \star \star$
 
 ### 8.4 Methodsfor Handling Deadlocks
 
