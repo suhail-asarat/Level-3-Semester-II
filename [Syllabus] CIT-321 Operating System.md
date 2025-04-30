@@ -1,6 +1,6 @@
 # Mahbub Sir's Part
 
-**Reference Book:** [Abraham Silberschatz - Operating System Concepts [10th Edition] (2018)](https://drive.google.com/file/d/1LrnGS3TNW9YAdSX3mfs_ntBdp8BoJlak/view)
+**Reference Book:** [Abraham Silberschatz - Operating System Concepts [10th Edition] (2018)](https://drive.google.com/file/d/1KEqTC0N-nzLi87As5QUgHdNT_PDqrffN/view)
 
 **Suggested Playlist:** [ Operating System by Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
 
@@ -35,7 +35,7 @@
 
 # Masud Sir's Part
 
-**Reference Book:** [Abraham Silberschatz - Operating System Concepts [10th Edition] (2018)](https://drive.google.com/file/d/1LrnGS3TNW9YAdSX3mfs_ntBdp8BoJlak/view)
+**Reference Book:** [Abraham Silberschatz - Operating System Concepts [10th Edition] (2018)](https://drive.google.com/file/d/1KEqTC0N-nzLi87As5QUgHdNT_PDqrffN/view)
 
 *Note: Sir followed both slides and book, specially during black-out days.*
 
