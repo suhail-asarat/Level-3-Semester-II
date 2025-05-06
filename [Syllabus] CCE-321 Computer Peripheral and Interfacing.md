@@ -32,7 +32,7 @@
 	- DMA
 
 
-> **Rafiquzzaman - 1st Chapter (Exercise) + Slide** $\star \star \star$
+> **[Rafiquzzaman - 1st Chapter (Exercise)](https://t.me/c/1734256119/3086/3344) + Peripheral and Interfaces (Slide)** $\star \star \star$
 
 
 ## [[Slide] Interfacing Keyboard](https://t.me/c/1734256119/3086/3095)
@@ -78,15 +78,46 @@ CRT differs from LCD or LED.
 
 #### Color Display
 
+### Exercises
+
 
 ## [[Slide] Display Basics](https://t.me/c/1734256119/3086/3099)
 
 ## [[Slide] 8255 PPI](https://t.me/c/1734256119/3086/3100)
 
+Bit Set/Reset Mode $\to$ BSR Mode
+
+Architectural representation:
+
+- Mode of Operation
+- **Handshaking** $\star \star \star$
+- Control Word
+
 ## [[Slide] Printer](https://t.me/c/1734256119/3086/3101)
+
+- Introduction to printers - [Website](https://www.tutorialsweb.com/computers/printers-scanners/index.htm)
+	- 1.Introduction to Printers
+	- 2.1 Impact printers
+		- ii. Dot-Matrix Printers
+	- 2.2 Solid-Ink Printers
+	- 2.3 Thermal Printers
+	- 2.4 Inkjet Printers
+	- **2.5 Laser printers** $\star \star$
+- **3D printers** $\star \star$
+- **Introduction to Scanners** - [Website](https://www.tutorialsweb.com/computers/printers-scanners/introduction-to-scanners.htm) $\star \star$
+	- 3.3 Sheetfed Scanners
+	- 3.4 Handheld Scanners
+- Printer and Scanner Interfaces - [Website](https://www.tutorialsweb.com/computers/printers-scanners/printer-and-scanner-interfaces.htm)
+	- 4.Printer and Scanner Interfaces
+- **Installing And Configuring Printers And Scanners** - [Website](https://www.tutorialsweb.com/computers/printers-scanners/Installing-printers-and-scanners.htm) $\star \star$
+- Printers And Scanners Problems And Troubleshooting - [Website](https://www.tutorialsweb.com/computers/printers-scanners/printer-and-scanner-troubleshooting.htm)
 
 ## [[Slide] 8279 Programmable Keyboard Display Controller](https://t.me/c/1734256119/3086/3096)
 
+- **Keyboard / Display Controller** $\star \star \star$
+- **Figures** $\star \star \star$
+- **Pin Description** $\star \star \star$ 
+	- Architectural View 
 
 # Arpita Ma'am's Part
 
