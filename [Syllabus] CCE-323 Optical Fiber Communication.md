@@ -6,7 +6,7 @@ Overview from YouTube: [How Fiber Optics Works](https://youtu.be/zAVsTubdd_Q)
 ## Chapter 1 : Introduction
 - Introduction
 - Historical Development
-- Signal to Noise Ratio -> Math
+- Signal to Noise Ratio $\to$ Math
 
 ## Chapter 2 : Optical Fiber Waveguides
 
@@ -23,8 +23,10 @@ Self Study: Example 2.3
 
 ## Chapter 3 : Transmission Characteristics of Optical Fibers
 from [Slide](https://t.me/c/1734256119/3086/3469)  
+
 ### 3.2 Attenuation
 Attenuation Mechanism are influenced by -
+
 - The material composition
 - ...
 
@@ -37,7 +39,7 @@ till: Dispersion
 $\star \star \star$
 Example 3.1  
 Figure 3.1  
-Example 3.2 -> Rayleigh Scattering  
+Example 3.2 $\to$ Rayleigh Scattering  
 
 Example 3.4  
 Equaion 2.9, 3.8, 2.98, 3.9  
@@ -75,29 +77,41 @@ Text Book: [John M. Senior - Optical Fiber Communications — Principles and Pra
 ### 5.2 Fiber alignment and joint loss
 Example 5.1  
 Figure 5.1, 5.2  
+
 #### 5.2.1 Multimode fiber joints
 Example 5.2, 5.4  
+
 ### 5.3 Fiber splices
+
 #### 5.3.1 Fusion splices
 Figure 5.5, 5.6, 5.7  
+
 #### 5.3.2 Mechanical splices
 Figure 5.7, 5.8, 5.9, 5.10, 5.11  
-#### 5.3.3 Multiple splices
+
+#### 5.3.3 Multiple splices  
 Figure 5.14, 5.15  
 
 $\star \star \star$ 
 Comparison between different splices
+
 ### 5.4 Fiber connectors
+
 #### 5.4.1 Cylindrical ferrule connectors
 Figure 5.16  
+
 #### 5.4.2 Duplex and multiple-fiber connectors
 Figure 5.19  
+
 #### 5.4.3 Fiber connector-type summary
 Table 5.1  
+
 ### 5.5 Expanded beam connectors
 Figure 5.21, 5.22  
+
 ### 5.6 Fiber couplers
 Figure 5.26, 5.27  
+
 #### 5.6.1 Three- and four-port couplers
 Figure 5.28, 5.29, 5.30  
 Example 5.7  
@@ -112,27 +126,38 @@ Spontaneous Emission
 Stimulated Emission  
 Emission  
 Laser Operation  
+
 #### 6.2.3 Population inversion
 Amplification of Photons  
 Application of laser  
 Light emitting diodes versus laser diodes  
+
 ### 6.3 Optical emission from semiconductors  
 Energy Bands in Semiconductors  
+
 #### 6.3.1 The p–n junction
 Diodes under forward bias  
 Direct and indirect bandgap semiconductors  
+
 #### 6.3.6 Semiconductor materials
+
 ### 6.4 Semiconductor Injection Laser
+
 #### 6.6.2 Distributed Feedback Lasers
 
 
 ## Assignment
 ## Chapter 7 - Optical sources 2: the light-emitting diode
 	John M. Senior - Optical Fiber Communications — Principles and Practice (Third Edition)
+
 #### 7.2.1 The double-heterojunction LED
+
 ### 7.3 LED Structure
+
 #### 7.3.1	Plane LED
+
 #### 7.3.2	Dome LED
+
 #### 7.3.3	Surface emitter LEDs
 Figure 7.10, 7.16  
 Example	7.6, 7.7
@@ -143,6 +168,8 @@ Example	8.1, 8.2
 Figure	8.7, 8.8, 8.9 (same as Figure 8.8)
 
 #### 8.10.1 Quantum-dot photodetectors
+
+
 
 $\star \star \star$ 
 **Postscript:** Examples and related maths are for Exam. 
