@@ -1,7 +1,7 @@
 # Murad Sir's Part:
 Text Book: [John M. Senior - Optical Fiber Communications — Principles and Practice (Third Edition)](https://t.me/c/1734256119/3086/3112)
 
-Overview from YouTube: [How Fiber Optics Works 🌎](https://youtu.be/zAVsTubdd_Q)
+Overview from YouTube: [How Fiber Optics Works](https://youtu.be/zAVsTubdd_Q)
 
 ## Chapter 1 : Introduction
 - Introduction
